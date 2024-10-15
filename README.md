@@ -2,8 +2,8 @@
 <h1 align= "center"  color="blue"> Hi, i´m Pablo Fernandez Carbayo 👋</h1>
 <img src="https://github.com/PabloFDZcarbayo/PabloFDZcarbayo/blob/main/img-kNFTtddelWkiF3SajvDHR.jpeg" />
 </div>
-![image](https://github.com/user-attachments/assets/b1deb9cf-7023-4d3e-b6c1-d2d4d4015b43)
-<!--
+https://img.shields.io/badge/Linkedin-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpablo-fernandez-carbayo-505b11141%2F
+
 **PabloFDZcarbayo/PabloFDZcarbayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
