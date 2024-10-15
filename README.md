@@ -1,5 +1,5 @@
 <div aling=center">
-<h1 align= "center"> Hi, i´m Pablo Fenandez Carbayo 👋</h1>
+<h1 align= "center" style color="blue"> Hi, i´m Pablo Fernandez Carbayo 👋</h1>
 <img src="https://github.com/PabloFDZcarbayo/PabloFDZcarbayo/blob/main/img-kNFTtddelWkiF3SajvDHR.jpeg" />
 </div>
 
