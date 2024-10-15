@@ -2,7 +2,7 @@
 <h1 align= "center"  color="blue"> Hi, i´m Pablo Fernandez Carbayo 👋</h1>
 <img src="https://github.com/PabloFDZcarbayo/PabloFDZcarbayo/blob/main/img-kNFTtddelWkiF3SajvDHR.jpeg" />
 </div>
-https://img.shields.io/badge/Linkedin-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpablo-fernandez-carbayo-505b11141%2F
+<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpablo-fernandez-carbayo-505b11141%2F">
 
 **PabloFDZcarbayo/PabloFDZcarbayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
