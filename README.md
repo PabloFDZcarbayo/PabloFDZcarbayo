@@ -24,20 +24,25 @@
 
 
 <h1 aling= "left">SKILLS:</h1>  
+<img alt="Static Badge" src="https://img.shields.io/badge/Angular%20-%20%23ff0000?style=for-the-badge&logo=Angular&logoColor=white">
 
 <ul>
 <li>
 <h3>Languages: </h1>
 <div aling="left"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript%20-%23ffff00?style=for-the-badge&logo=javascript&logoColor=black">
-
-  
-
-  
-  
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin%20-%20%23cc00cc?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Swift%20-%20%233366ff?style=for-the-badge&logo=swift&logoColor=white">
 </div>
+</li> 
+
+<li>
+  <h3>Front-End Development: </h3>
+  s<div align="left">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Html5%20-%20%23009933?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%20%236699ff?style=for-the-badge&logo=CSS3&logoColor=white">   
+  </div>
+</li>
 
 
 
