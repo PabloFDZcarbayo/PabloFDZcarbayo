@@ -13,7 +13,7 @@
 - 📫 You can reach me at:
 
   
-   <div align="left">
+  <div align="left">
   <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin">
   </a>  
