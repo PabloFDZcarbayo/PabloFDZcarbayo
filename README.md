@@ -24,7 +24,6 @@
 
 
 <h1 aling= "left">SKILLS:</h1>  
-<img alt="Static Badge" src="https://img.shields.io/badge/Angular%20-%20%23ff0000?style=for-the-badge&logo=Angular&logoColor=white">
 
 <ul>
 <li>
@@ -40,7 +39,8 @@
   <h3>Front-End Development: </h3>
   s<div align="left">
     <img alt="Static Badge" src="https://img.shields.io/badge/Html5%20-%20%23009933?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%20%236699ff?style=for-the-badge&logo=CSS3&logoColor=white">   
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%20%236699ff?style=for-the-badge&logo=CSS3&logoColor=white">  
+    <img alt="Static Badge" src="https://img.shields.io/badge/Angular%20-%20%23ff0000?style=for-the-badge&logo=Angular&logoColor=white">
   </div>
 </li>
 
