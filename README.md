@@ -1,19 +1,17 @@
 <div aling=center">
-<h1 align= "center"  color="blue"> Hi, i´m Pablo Fernandez Carbayo 👋</h1>
+<h1 align= "center"> Hi, i´m Pablo Fernandez Carbayo 👋</h1>
 <img src="https://github.com/PabloFDZcarbayo/PabloFDZcarbayo/blob/main/img-kNFTtddelWkiF3SajvDHR.jpeg" />
 </div>
-<a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
+</br>
+
+<h1 aling= "left">ABOUT ME:</h1>  
+
+- 🔭 Currently studying Multiplatform Application Development at U-tad University.
+- 🌱 Expanding my knowledge in Java, Kotlin, Swift, JavaScript, and eager to dive into new technologies
+- 👯  Excited to collaborate on innovative projects and real-world applications.
+- 🤔 Always open to learning from others and tackling challenging problems.
+- 📫 📫 You can reach me at: <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin">
-</a>  
+</a> 
 
-ABOUT ME:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
