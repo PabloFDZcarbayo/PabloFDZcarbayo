@@ -25,5 +25,28 @@
 
 <h1 aling= "left">SKILLS:</h1>  
 
+<ul>
+<li>
+<h3>Languages: </h1> <br>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+  
+
+</div>
+
+
+
+  
+</ul>
+
+
+
+
+
+
+
+
+
+
 
 
