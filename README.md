@@ -12,6 +12,7 @@
 - 🤔 Always open to learning from others and tackling challenging problems.
 - 📫 📫 You can reach me at: <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin">
-</a> 
+</a>  <a href= "mailto:pablo.fernandez.carbayo@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 -->
