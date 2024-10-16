@@ -6,11 +6,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin">
 </a>  
 
-
-
-**PabloFDZcarbayo/PabloFDZcarbayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ABOUT ME:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
