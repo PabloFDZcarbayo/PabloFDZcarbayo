@@ -27,9 +27,12 @@
 
 <ul>
 <li>
-<h3>Languages: </h1> <br>
-<div>
+<h3>Languages: </h1>
+<div aling="left"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript%20-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
+
+  
   
 
 </div>
