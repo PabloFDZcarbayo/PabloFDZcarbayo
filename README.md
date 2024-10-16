@@ -3,7 +3,7 @@
 <img src="https://github.com/PabloFDZcarbayo/PabloFDZcarbayo/blob/main/img-kNFTtddelWkiF3SajvDHR.jpeg" />
 </div>
 <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=plastic">
+  [<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=plastic">](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)
 </a>
 
 **PabloFDZcarbayo/PabloFDZcarbayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
