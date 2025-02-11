@@ -14,17 +14,17 @@
 
 <ul>
   <li>
-  <div align="left">
-  <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
-   <img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev">
-  </a>  
-  <a href="mailto:pablo.fernandez.carbayo@gmail.com" target= "_blank">
-     <img src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev">
-  </a>
-</div>
+    <div align="left">
+      <!-- Enlace a LinkedIn con el ícono -->
+      <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      </a>  
+      <a href="mailto:pablo.fernandez.carbayo@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+      </a>
+    </div>
   </li>
 </ul>
-
 
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloFDZcarbayo&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/PabloFDZcarbayo/github-readme-stats)
 [![Pablo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFDZcarbayo&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/PabloFDZcarbayo/github-readme-stats)
