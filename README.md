@@ -37,23 +37,13 @@
 <h4>Languages: </h4>
 <div aling="left"> 
   <img src="https://skillicons.dev/icons?i=java,kotlin,js,swift)](https://skillicons.dev">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin%20-%20%23cc00cc?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Swift%20-%20%233366ff?style=for-the-badge&logo=swift&logoColor=white">
 </div>
 </li> 
-
-
-
-
-
 
 <li>
   <h4>Front-End Development: </h4>
   <div align="left">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Html5%20-%20%23009933?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%20%236699ff?style=for-the-badge&logo=CSS3&logoColor=white">  
-    <img alt="Static Badge" src="https://img.shields.io/badge/Angular%20-%20%23ff0000?style=for-the-badge&logo=Angular&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,angular)](https://skillicons.dev">
   </div>
 </li>
 
