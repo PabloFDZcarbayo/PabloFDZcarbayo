@@ -43,23 +43,22 @@
 <li>
   <h4>Front-End Development: </h4>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,angular,)](https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,angular,netlify,)](https://skillicons.dev">
   </div>
 </li>
 
-
-
-
+<li>
+  <h4>Back-End Development: </h4>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres,postman,firebase,)](https://skillicons.dev">
+  </div>
+</li>
 
 
 <li>
   <h4>Softwares: </h4>
   <div align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20-%20black?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%20%230033cc?style=for-the-badge&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20Idea%20-%20%23ff9900?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio%20-%20%2300ff00?style=for-the-badge&logo=androidstudio&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/XCode%20-%20%233399ff?style=for-the-badge&logo=xcode&logoColor=white">
+   <img src="https://skillicons.dev/icons?i=github,idea,androidstudio,pycharm,webstorm,)](https://skillicons.dev">
   </div>
 </li>
 
