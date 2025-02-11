@@ -15,10 +15,10 @@
   
   <div align="left">
   <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin">
+   <img src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev">
   </a>  
-  <a href="mailto:pablo.fernandez.carbayo@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:pablo.fernandez.carbayo@gmail.com" target= "_blank">
+     <img src="https://skillicons.dev/icons?i=gmail)](https://skillicons.dev">
   </a>
 </div>
 
