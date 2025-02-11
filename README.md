@@ -23,8 +23,8 @@
 </div>
 
 
-[![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/PabloFDZcarbayo/github-readme-stats)
+[![Pablo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/PabloFDZcarbayo/github-readme-stats)
 
 
 
