@@ -15,10 +15,10 @@
   
   <div align="left">
   <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
-   <img src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev">
   </a>  
   <a href="mailto:pablo.fernandez.carbayo@gmail.com" target= "_blank">
-     <img src="https://skillicons.dev/icons?i=gmail)](https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev">
   </a>
 </div>
 
