@@ -36,7 +36,7 @@
 <li>
 <h4>Languages: </h4>
 <div aling="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,swift)](https://skillicons.dev">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin%20-%20%23cc00cc?style=for-the-badge&logo=kotlin&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Swift%20-%20%233366ff?style=for-the-badge&logo=swift&logoColor=white">
