@@ -36,14 +36,14 @@
 <li>
 <h4>Languages: </h4>
 <div aling="left"> 
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,swift)](https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,swift,)](https://skillicons.dev">
 </div>
 </li> 
 
 <li>
   <h4>Front-End Development: </h4>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,angular)](https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,angular,)](https://skillicons.dev">
   </div>
 </li>
 
