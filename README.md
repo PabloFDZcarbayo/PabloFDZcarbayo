@@ -12,7 +12,8 @@
 - 🤔 Always open to learning from others and tackling challenging problems.
 - 📫 You can reach me at:
 
-  
+<ul>
+  <li>
   <div align="left">
   <a href="https://www.linkedin.com/in/pablo-fernandez-carbayo-505b11141/" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev">
@@ -21,6 +22,8 @@
      <img src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev">
   </a>
 </div>
+  </li>
+</ul>
 
 
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloFDZcarbayo&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/PabloFDZcarbayo/github-readme-stats)
