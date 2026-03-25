@@ -6,13 +6,14 @@
 
 <h1 aling= "left">⚡ Professional Profile</h1>  
 
-- 🏢 Technical Consultant @ Axazure: Focused on high-scale Power Platform and Dynamics 365 implementations.
+- 🏢 **Technical Consultant @ Axazure**: Focused on high-scale Power Platform and Dynamics 365 implementations.
 
-- 🛠️ Pro-Code Specialist: Extending Microsoft Business Applications through custom C# Plugins, Custom APIs, and high-performance React/JS PCF Components.
+- 🛠️ **Pro-Code Specialist**: Extending Microsoft Business Applications through custom C# Plugins, Custom APIs, and high-performance React/JS PCF Components.
 
-- 🚀 Solution-Oriented: I don't just write code; I architect technical solutions to solve complex business constraints where standard features fall short.
+- 🚀 **Solution-Oriented**: I don't just write code; I architect technical solutions to solve complex business constraints where standard features fall short.
 
-- 📫 Connect with me:
+- 📫 **Connect with me**:
+  
 <ul>
   <li>
     <div align="left">
