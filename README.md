@@ -4,14 +4,15 @@
 </div>
 </br>
 
-<h1 aling= "left">ABOUT ME:</h1>  
+<h1 aling= "left">⚡ Professional Profile</h1>  
 
-- 🔭 Currently studying Multiplatform Application Development at U-tad University.
-- 🌱 Expanding my knowledge in Java, Kotlin, Swift, JavaScript, and eager to dive into new technologies
-- 👯  Excited to collaborate on innovative projects and real-world applications.
-- 🤔 Always open to learning from others and tackling challenging problems.
-- 📫 You can reach me at:
+🏢 Technical Consultant @ Axazure: Focused on high-scale Power Platform and Dynamics 365 implementations.
 
+🛠️ Pro-Code Specialist: Extending Microsoft Business Applications through custom C# Plugins, Custom APIs, and high-performance React/JS PCF Components.
+
+🚀 Solution-Oriented: I don't just write code; I architect technical solutions to solve complex business constraints where standard features fall short.
+
+📫 Connect with me:
 <ul>
   <li>
     <div align="left">
