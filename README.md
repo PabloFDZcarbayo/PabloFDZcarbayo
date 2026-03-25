@@ -41,24 +41,9 @@
 </li> 
 
 <li>
-  <h4>Front-End Development: </h4>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,angular,netlify,)](https://skillicons.dev">
-  </div>
-</li>
-
-<li>
-  <h4>Back-End Development: </h4>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres,postman,firebase,)](https://skillicons.dev">
-  </div>
-</li>
-
-
-<li>
   <h4>Softwares: </h4>
   <div align="left">
-   <img src="https://skillicons.dev/icons?i=github,idea,androidstudio,pycharm,webstorm,)](https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,)](https://skillicons.dev">
   </div>
 </li>
 
