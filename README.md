@@ -36,7 +36,7 @@
 <li>
 <h4>Languages: </h4>
 <div aling="left"> 
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,swift,)](https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,js,)](https://skillicons.dev">
 </div>
 </li> 
 
